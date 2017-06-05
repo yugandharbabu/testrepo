@@ -8,5 +8,9 @@ namespace TestForms
 {
     class Lib
     {
+        public Lib()
+        {
+
+        }
     }
 }
